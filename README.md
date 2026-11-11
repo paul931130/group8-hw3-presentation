@@ -1,6 +1,6 @@
 # Group 8 HW3 — Mobile Presentation Reader
 
-Mobile-friendly English presentation script for **Q3**, **Q5**, and **13 Q&A questions**.
+Mobile-friendly English presentation script for **Q3**, **Q5**, and **13 Q&A questions**. The wording, report-page cues, key metrics, and caveats have been checked against **Group8_HW3_Report.pdf** (Question 3 on pages 7–10; Question 5 on pages 13–15). The original PDF is not published in this repository.
 
 **Live website:** https://paul931130.github.io/group8-hw3-presentation/
 
